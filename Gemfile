@@ -3,6 +3,7 @@ source "https://rubygems.org"
 ruby "3.3.5"
 # for the models
 gem "comfortable_mexican_sofa"
+gem 'mini_magick'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails"
 
